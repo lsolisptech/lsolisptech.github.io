@@ -1,0 +1,341 @@
+
+/*********************************************
+General
+*********************************************/
+.wrap{
+  width: 93%;
+margin:auto;
+}
+
+/*********************************************
+Navigation
+*********************************************/
+.top-bar{
+  background-color: white;
+  z-index: 99999999;
+}
+.top-bar ul{
+  background-color: transparent;
+  border-style: none;
+}
+.top-bar h4, .top-bar a{
+  color: #7F78CB
+;
+
+}
+.top-bar li{
+  background-color:white;
+}
+
+.navigation h4{
+  font-family: cursive;
+}
+/*********************************************
+Header
+*********************************************/
+.orbit img{
+max-height:35em;
+max-width:100em;
+}
+
+.logo img{
+  margin-top: 60px
+}
+.header{
+  background-color: black;
+}
+/********************************************
+Main
+*********************************************/
+.main{
+  padding-top: 2em;
+  background-color: black;
+
+}
+.autobiography h3{
+  text-align: center;
+    color:#A1D6E2;
+
+  font-size: 5em;
+
+}
+.autobiography p{
+  text-align: center;
+  color:#A1D6E2;
+
+font-size: 2em;
+}
+.c{
+    color:#A1D6E2;
+
+}
+.doc{
+  text-align: center;
+
+}
+.cart{
+
+ color:#A1D6E2;}
+.science{
+
+  color: #A1D6E2;
+
+
+}
+.oco{
+color:#A1D6E2;
+}
+.or p{
+  color:#A1D6E2;
+  text-align: center;
+  font-size: 10em
+}
+.fune p{
+  margin-left: 50px;
+  color:#A1D6E2;
+
+}
+.emale p{
+  margin-left: 80px;
+    color:#A1D6E2;
+
+}
+.studysessions{
+  color:#A1D6E2;
+  text-align: center;
+}
+.matematicas{
+  color:#A1D6E2;
+  text-align: center;
+}
+.frame p{
+  font-size: 1em;
+  color:#A1D6E2;
+  text-align: center;
+}
+.master p{
+  font-size: 5px;
+  color:#A1D6E2;
+  text-align: center;
+}
+.robo p{
+  text-align: center;
+  font-size: 2em;
+    color:#A1D6E2;
+}
+.plus{
+  margin-left: 500px;
+
+  height:2em;
+  width:20em;
+  text-align: center;
+}
+.robot{
+  background-color: black;
+}
+.x h3{
+  font-size: 9em;
+  text-align: center;
+    color:#A1D6E2;
+}
+.robot{
+  margin-left: 500px;
+  height: :2em;
+  width: 20em;
+text-align: center;
+}
+
+.robotics p{
+  font-size: 1em;
+  color:#A1D6E2;
+text-align: center;
+}
+.emale p{
+  color:#A1D6E2;
+}
+.vol{
+  margin-left: 30px
+  font-size: 3em;
+  color:#A1D6E2;
+text-align: : center;
+}
+.barnes{
+  height:130px;
+  width: 130px;
+  float: right;
+}
+.newburgh{
+  width:305px;
+}
+.watson{
+  font-size: 2em;
+  color:#A1D6E2;
+  text-align: center;
+
+}
+.watssonk{
+  color:#A1D6E2;
+  text-align: : center;
+  font-size: 1em;
+
+}
+.code{
+text-align: left;
+font-size: 3em;
+color:#A1D6E2
+
+}
+.hourofcode p{
+margin-left: 30px
+  font-size: 1em;
+  color:#A1D6E2;
+text-align: : left;
+}
+.dash{
+  height: 130px;
+  width:130px;
+  float: left;
+}
+.v{
+  margin-left: 30px
+  font-size: 1em;
+  color:#A1D6E2;
+text-align: center;
+}
+.Sciencek{
+  text-align: center;
+  font-size: 3em;
+  color:#A1D6E2;
+}
+.sciencer{
+  text-align: center;
+  font-size: 1em;
+  color:#A1D6E2;
+}
+.sciencep{
+height: 120px;
+width: 100px;
+  margin-left: 50em;
+}
+.contac{
+  color:#A1D6E2;
+  font-size: 5em;
+  text-align: center;
+}
+
+.sciencew{
+    color: #A1D6E2;
+    text-align: left;
+
+}
+.auto{
+  color: #A1D6E2;
+text-align: right;
+}
+.journal img{
+  text-align: left;
+  margin-top: 6em;
+  height: 7em;
+  width: 10em;
+}
+.bottle{
+  text-align: right;
+  height: 10em;
+  width: 9em;
+}
+.pwritingsample p{
+  font-size: 5em;
+  color:#A1D6E2;
+
+}
+.picccc{
+text-align: center;
+}
+.a h3{
+  color: #A1D6E2;
+  text-align: right;
+}
+.ew{
+  height:90px;
+  width:90px;
+  padding-bottom: 15em;
+}
+.diamond img{
+  text-align: center;
+height:150%;
+width: 100%;
+margin-left: 200px;
+margin-bottom: 10em
+}
+.splashname p{
+  margin-right: 20em;
+  font-size: 10em;
+}
+.aboutme{
+  color:white
+}
+.row{
+  width: 100;
+  margin: auto;
+}
+.columns{
+  padding: 1em 2em;
+}
+.main1{
+  color:white;
+}
+.main p{
+color: #A1D6E2;
+}
+.mainl{
+  background-color: black;
+}
+
+.main h1{
+  color:#A1D6E2;
+  font-family: spirax;
+  font-size: 8em;
+  margin-left: .4em;
+
+}
+.main h2{
+  color:#A1D6E2
+;
+  font-family: spirax;
+  font-size: 7em;
+  margin-left: .5em
+}
+.main h3{
+  color:#A1D6E2
+;
+  font-family: spirax;
+  font-size: 5em;
+  margin-left: .7em
+}
+
+
+
+/*********************************************
+Footer
+*********************************************/
+.footer{
+  text-align: center;
+}
+.footer{
+  background-color: black;
+}
+.footer img{
+  height: 5em;
+  width:5em;
+}
+.footer a{
+  color:  #7F78CB;
+}
+
+.footer h3{
+  color:  #7F78CB;
+}
+.aboutme{
+  color:#A1D6E2
+
+}
